@@ -33,12 +33,8 @@ This project is a **Multi-Authentication Secure System** built using Arduino-bas
 
 The project is developed in Arduino IDE and written in C/C++ for microcontrollers.
 
-> **Note**: Be sure to install the necessary libraries like `Adafruit_Fingerprint`, `MFRC522`, `Keypad`, and `LiquidCrystal` before uploading the code.
 
-## 🚀 Getting Started
 
-To run this project:
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/multi-authentication-secure-system.git
+
+
 
